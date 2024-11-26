@@ -4,7 +4,7 @@
 
 This code allows the generation of pure quantum states.
 Each state can be labelled by two criteria:
-  - Factorizabile, Separable, Entangled  
+  - Factorizable, Separable, Entangled  
   - Locality violation with several measurement
  
 
