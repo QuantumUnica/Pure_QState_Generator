@@ -24,6 +24,7 @@ Each state can be labelled by two criteria:
 - **Andrés Camilo Granda Arango** - [GitHub Profile](https://github.com/agrandaarango)
 - **Giuseppe Sergioli** - [GitHub Profile](https://github.com/GiuseppeSergioli)
 - **Roberto Giuntini**
+- **Carla Rieger** - [GitHub Profile](https://github.com/carlasophie)
 
 
 
